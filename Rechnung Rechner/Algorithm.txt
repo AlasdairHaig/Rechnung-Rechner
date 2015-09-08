@@ -1,0 +1,43 @@
+You require an algorithm that will read in a tax rate ( as a percentage) and the prices of five items. The program is to calculate the total price, before tax, of the items, then the tax payable on those items. The tax payable is calculated by applying the tax rate percentage to the total price. Print the total price and the tax payable as output.
+
+
+
+Input :
+-------------
+tax rate
+prices of five items
+
+
+Output : 
+-----------------
+total price
+tax
+
+
+Processing :
+---------------
+prompt for tax rate
+get tax rate
+prompt for prices
+get prices
+calculate total price
+calculate tax
+display total price
+display tax
+
+
+Solution Algorithm :
+------------------------
+
+
+Find_Tax
+	Prompt for steuer_rate
+	Get steuer_rate
+	Prompt for preise(4)
+	Get preise(4)
+	gesamtPreis = preise(0) + preise(1) + preise(2) + preise(3) + preise(4)
+	steuer = gesamtPreis * steuer_rate
+	gesamtPreisMitSteuer = gesamtPreis + steuer
+	ausgeben gesamtPreis
+	ausgeben steuer
+	ausgeben gesamtPreisMitSteuer

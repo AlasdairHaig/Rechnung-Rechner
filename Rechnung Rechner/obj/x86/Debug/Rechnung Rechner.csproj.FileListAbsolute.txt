@@ -1,0 +1,8 @@
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\Rechnung Rechner\Rechnung Rechner\bin\Debug\Rechnung Rechner.exe
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\Rechnung Rechner\Rechnung Rechner\bin\Debug\Rechnung Rechner.pdb
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\Rechnung Rechner\Rechnung Rechner\obj\x86\Debug\Rechnung_Rechner.rechnungRechner.resources
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\Rechnung Rechner\Rechnung Rechner\obj\x86\Debug\Rechnung_Rechner.Properties.Resources.resources
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\Rechnung Rechner\Rechnung Rechner\obj\x86\Debug\Rechnung Rechner.csproj.GenerateResource.Cache
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\Rechnung Rechner\Rechnung Rechner\obj\x86\Debug\Rechnung Rechner.exe
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\Rechnung Rechner\Rechnung Rechner\obj\x86\Debug\Rechnung Rechner.pdb
+C:\Users\b.wood\Documents\Visual Studio 2010\Projects\Rechnung Rechner\Rechnung Rechner\obj\x86\Debug\Rechnung Rechner.csprojResolveAssemblyReference.cache
